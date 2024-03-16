@@ -40,25 +40,25 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-%23989999.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%23007ACC.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
       </div>
     </td>
   </tr>
   <tr>
     <td valign="middle">
-      <span>ML techniques</span>
+      <span>ML Techniques</span>
     </td>
     <td valign="middle">
       <div float="left">
-        <span>Classification, Regression, Clustering, Decision tree, Random forest, Naive Bayes, Association rule mining</span>
+        <span>Classification, Regression, Clustering, Decision Trees, Random Forest, Naive Bayes, Association Rule Mining</span>
       </div>
     </td>
   </tr>
@@ -68,11 +68,16 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <span>Word, Excel, PowerPoint, Outlook, Teams</span>
+        <img src="https://img.shields.io/badge/Word-%23276DC3.svg?&style=flat-square&logo=microsoftword&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-%23276DC3.svg?&style=flat-square&logo=microsoftexcel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerPoint-%23276DC3.svg?&style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Outlook-%23276DC3.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Teams-%23276DC3.svg?&style=flat-square&logo=microsoftteams&logoColor=white"/>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
