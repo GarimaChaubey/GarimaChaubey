@@ -40,10 +40,10 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-%239696FF.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%23989999.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
@@ -54,17 +54,26 @@
   </tr>
   <tr>
     <td valign="middle">
+      <span>ML techniques</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <span>Classification, Regression, Clustering, Decision tree, Random forest, Naive Bayes, Association rule mining</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       <span>Microsoft Office Suite</span>
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/Word-%23276DC3.svg?&style=flat-square&logo=microsoft-word&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-%23276DC3.svg?&style=flat-square&logo=microsoft-excel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PowerPoint-%23276DC3.svg?&style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
+        <span>Word, Excel, PowerPoint, Outlook, Teams</span>
       </div>
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
