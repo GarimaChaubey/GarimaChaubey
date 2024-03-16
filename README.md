@@ -13,11 +13,9 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on **Analyzing and Predicting Academic Stress among Students at BHU: A Comprehensive Study**
+- 🌱 On the way of learning **Advanced Machine Learning & Data ScienceMachine Learning, Deep Learning, Natural Language Processing**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing**
-
-- 📫 How to reach me **garimachaubey@bhu.ac.in**
+- 📫 Reach out to me **garimachaubey@bhu.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing](https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing)
 
