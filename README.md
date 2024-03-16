@@ -17,8 +17,6 @@
 
 - 📫 Reach out to me **garimachaubey@bhu.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing](https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing)
-
 <table>
   <tr>
     <td valign="middle">
