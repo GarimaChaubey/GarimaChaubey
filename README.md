@@ -2,14 +2,14 @@
 <h4 align="center">~ Hi everyone, I'm Garima, currently pursuing M.Sc from Banaras Hindu University. With a strong background in data analysis and machine learning, I'm eager to collaborate with industry professionals and apply my fresh perspective to solve real-world problems. I'm particularly interested in NLP and Machine Learning and AI, where I can leverage my skills to develop inclusive and responsible NLP technologies, and enhance its applications.</h4>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" height=30/>
+    <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" height=25/>
     <a href="http://www.linkedin.com/in/garima3107">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=29>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
     <a href="https://leetcode.com/GarimaAM/">
-        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height=20>
+        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height=25>
     <a href="https://auth.geeksforgeeks.org/user/kashyapgarima700">
-        <img src="https://img.shields.io/badge/gfg-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height=20>
+        <img src="https://img.shields.io/badge/gfg-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height=25>
     </a>
 </p>
 
