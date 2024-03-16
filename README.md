@@ -3,17 +3,13 @@
 
 <div class="container">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" /> </p>
-  <div class="symbols">
-    <p>
-      <a href="https://leetcode.com/GarimaAM/">
-        <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode Profile">
-      </a>
-    </p>
-    <p>
-      <a href="https://auth.geeksforgeeks.org/user/kashyapgarima700">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks Profile">
-      </a>
-    </p>
+  <div class="symbol">
+    <a href="https://leetcode.com/GarimaAM/">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode Profile">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/kashyapgarima700" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks Profile">
+    </a>
   </div>
 </div>
 - 🔭 I’m currently working on **Analyzing and Predicting Academic Stress among Students at BHU: A Comprehensive Study**
