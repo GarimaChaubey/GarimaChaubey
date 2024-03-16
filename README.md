@@ -2,7 +2,7 @@
 <h3 align="center">~ Hi everyone my self Garima. I'm from Varanasi, a beautiful place in India. I am pursuing M.Sc from Banaras Hindu University. I am a 2022 pass-out B.Sc. graduate with good coding skills. I am always ready to learn new things. I am eager to contribute to the development of cutting-edge solutions. I am excited to collaborate with industry professionals and apply my fresh perspective to solve real-world problems.</h3>
 
 <div class="container">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" /> </p>
   <p>
     <a href="https://leetcode.com/GarimaAM/">
       <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode Profile">
