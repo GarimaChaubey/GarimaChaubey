@@ -28,9 +28,23 @@
       <div float="left">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-%234169E1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Microsoft Office Suite</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Word-%232B579A.svg?&style=flat-square&logo=microsoftword&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat-square&logo=microsoftexcel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?&style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Teams-%236DB33F.svg?&style=flat-square&logo=microsoftteams&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -43,12 +57,12 @@
         <img src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-%23007ACC.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%23276DC3.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -58,25 +72,18 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <span>Classification, Regression, Clustering, Decision Trees, Random Forest, Naive Bayes, Association Rule Mining</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <span>Microsoft Office Suite</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/Word-%23276DC3.svg?&style=flat-square&logo=microsoftword&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-%23276DC3.svg?&style=flat-square&logo=microsoftexcel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PowerPoint-%23276DC3.svg?&style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Outlook-%23276DC3.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Teams-%23276DC3.svg?&style=flat-square&logo=microsoftteams&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Classification-%23339933.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Regression-%238DD6F9.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Clustering-%23F7DF1E.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Decision%20Tree-%23FF0000.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Random%20Forest-%23006699.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Naive%20Bayes-%234FC08D.svg?&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Association%20Rule%20Mining-%23150458.svg?&style=flat-square"/>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 
