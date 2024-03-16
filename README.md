@@ -27,13 +27,9 @@
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <span>(Advanced)</span>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <span>(Intermediate)</span>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
-        <span>(Intermediate)</span>
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
-        <span>(Intermediate)</span>
         <img src="https://img.shields.io/badge/MySQL-%234169E1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
       </div>
     </td>
