@@ -3,13 +3,13 @@
 
 <p align="center">
     <a href="https://leetcode.com/GarimaAM/">
-        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height=30>
     </a>
     <a href="http://www.linkedin.com/in/garima3107">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/kashyapgarima700">
-        <img src="https://img.shields.io/badge/gfg-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/gfg-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height=30>
     </a>
 </p>
 
