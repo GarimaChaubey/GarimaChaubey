@@ -19,6 +19,57 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing](https://drive.google.com/file/d/1aF0YBexdtfIGzBDwnN_t32JfPWQ422J5/view?usp=sharing)
 
+<table>
+  <tr>
+    <td valign="middle">
+      <span>Languages</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+        <span>(Advanced)</span>
+        <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
+        <span>(Intermediate)</span>
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+        <span>(Intermediate)</span>
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
+        <span>(Intermediate)</span>
+        <img src="https://img.shields.io/badge/MySQL-%234169E1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Data Science</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-%239696FF.svg?&style=flat-square&logo=seaborn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Microsoft Office Suite</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/Word-%23276DC3.svg?&style=flat-square&logo=microsoft-word&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-%23276DC3.svg?&style=flat-square&logo=microsoft-excel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerPoint-%23276DC3.svg?&style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/garima3107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garima3107/" height="30" width="40" /></a>
