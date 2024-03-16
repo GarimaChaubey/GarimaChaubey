@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garima Chaubey</h1>
-<h3 align="center">~ Hi everyone my self Garima. I'm from Varanasi, a beautiful place in India. I am pursuing M.Sc from Banaras Hindu University. I am a 2022 pass-out B.Sc. graduate with good coding skills. I am always ready to learn new things. I am eager to contribute to the development of cutting-edge solutions. I am excited to collaborate with industry professionals and apply my fresh perspective to solve real-world problems.</h3>
+<h3 align="center">~ Hi everyone, I'm Garima, currently pursuing M.Sc from Banaras Hindu University. With a strong background in data analysis and machine learning, I'm eager to collaborate with industry professionals and apply my fresh perspective to solve real-world problems. I'm particularly interested in NLP and Machine Learning and AI, where I can leverage my skills to develop inclusive and responsible NLP technologies, and enhance its applications..</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" height=30/>
