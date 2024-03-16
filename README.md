@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me **garimachaubey@bhu.ac.in**
 
-
+<br>
 <table>
   <tr>
     <td valign="middle">
