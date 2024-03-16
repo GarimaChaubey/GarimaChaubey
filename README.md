@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Garima Chaubey</h1>
 <h3 align="center">~ Hi everyone my self Garima. I'm from Varanasi, a beautiful place in India. I am pursuing M.Sc from Banaras Hindu University. I am a 2022 pass-out B.Sc. graduate with good coding skills. I am always ready to learn new things. I am eager to contribute to the development of cutting-edge solutions. I am excited to collaborate with industry professionals and apply my fresh perspective to solve real-world problems.</h3>
 
+<p align="center"><a href="https://www.twitter.com/medyo80"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/elmehdisakout"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/medyo80/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@medyo80"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+
+
 <div class="container">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" /> </p>
   <div class="symbols">
