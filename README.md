@@ -82,6 +82,15 @@
     </td>
   </tr>
 </table>
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garimachaubey&show_icons=true&locale=en&layout=compact" alt="garimachaubey" /></p>
 
