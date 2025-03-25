@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garima Chaubey</h1>
-<h4 align="center">~ Hi everyone, I'm Garima, currently pursuing P.hD from IIIT Allahabad. With a strong background in data analysis and machine learning, I'm eager to collaborate with industry professionals and apply my fresh perspective to solve real-world problems. I'm particularly interested in NLP and Machine Learning and AI, where I can leverage my skills to develop inclusive and responsible NLP technologies, and enhance its applications.</h4>
+<h4 align="center">~ Hi everyone, I'm Garima, currently pursuing PhD from IIIT Allahabad. With a strong background in data analysis and machine learning, I'm eager to collaborate with industry professionals and apply my fresh perspective to solve real-world problems. I'm particularly interested in NLP and Machine Learning and AI, where I can leverage my skills to develop inclusive and responsible NLP technologies, and enhance its applications.</h4>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" height=25/>
