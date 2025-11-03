@@ -15,7 +15,7 @@
 
 - 🌱 On the way of learning **Advanced Machine Learning & Data ScienceMachine Learning, Deep Learning, Natural Language Processing**
 
-- 📫 Reach out to me **garimachaubey@bhu.ac.in | kashyapgarima700@gmail.com**
+- 📫 Reach out to me **rsi2025001@iiita.ac.in | kashyapgarima700@gmail.com**
 
 <br>
 <table>
