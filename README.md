@@ -1,90 +1,116 @@
-<h1 align="center">Hi 👋, I'm Garima Chaubey</h1>
-<h4 align="center">~ Hi everyone, I'm Garima, currently pursuing PhD from IIIT Allahabad. With a strong background in data analysis and machine learning, I'm eager to collaborate with industry professionals and apply my fresh perspective to solve real-world problems. I'm particularly interested in NLP and Machine Learning and AI, where I can leverage my skills to develop inclusive and responsible NLP technologies, and enhance its applications.</h4>
+from pathlib import Path
+content = r'''<h1 align="center">Hi 👋, I'm Garima Chaubey</h1>
+
+<h3 align="center">PhD Research Scholar | Continual Learning | Reinforcement Learning | Foundation Models</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=garimachaubey&label=Profile%20views&color=0e75b6&style=flat" alt="garimachaubey" height=25/>
-    <a href="http://www.linkedin.com/in/garima3107">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a>
-    <a href="https://leetcode.com/GarimaAM/">
-        <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height=25>
-    <a href="https://auth.geeksforgeeks.org/user/kashyapgarima700">
-        <img src="https://img.shields.io/badge/gfg-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height=25>
-    </a>
+  I am a PhD Research Scholar at the Indian Institute of Information Technology Allahabad (IIIT Allahabad), India.
+  My research focuses on building adaptive and efficient learning systems that can acquire new knowledge while
+  retaining previously learned information.
 </p>
 
-- 📫 Reach out to me **rsi2025001@iiita.ac.in | kashyapgarima700@gmail.com**
+<p align="center">
+  <a href="https://garimachaubey.github.io/Garima_Chaubey/">
+    <img src="https://img.shields.io/badge/Website-Visit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=V1QXFP0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://orcid.org/0009-0009-4141-8685">
+    <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://www.linkedin.com/in/garima3107">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GarimaChaubey">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br>
-<table>
-  <tr>
-    <td valign="middle">
-      <span>Languages</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-%234169E1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <span>Microsoft Office Suite</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/Word-%232B579A.svg?&style=flat-square&logo=microsoftword&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat-square&logo=microsoftexcel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?&style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Teams-%236DB33F.svg?&style=flat-square&logo=microsoftteams&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <span>Data Science</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-%23276DC3.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=keras&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <span>ML Techniques</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/Classification-%23339933.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Regression-%238DD6F9.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Clustering-%23F7DF1E.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Decision%20Tree-%23FF0000.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Random%20Forest-%23006699.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Naive%20Bayes-%234FC08D.svg?&style=flat-square"/>
-        <img src="https://img.shields.io/badge/Association%20Rule%20Mining-%23150458.svg?&style=flat-square"/>
-      </div>
-    </td>
-  </tr>
-</table>
-<h3><b><samp>Tools and Platform</samp></b></h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GarimaChaubey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white)
+## 🔬 Research Interests
+
+- Continual Learning and lifelong adaptation
+- Reinforcement Learning and adaptive decision-making
+- Foundation Models and parameter-efficient fine-tuning
+- Large Language Models and agentic AI
+- Multi-Agent Reinforcement Learning
+- Machine Unlearning and trustworthy AI
+- Representation Learning
+
+I am particularly interested in how learning systems and AI agents can adapt to evolving tasks, learn from experience, and retain useful knowledge over time.
+
+## 🧪 Current Research
+
+**ReinforceTree: PPO-Guided Adaptive LoRA Routing for Continual Learning**
+
+My current research explores reinforcement-learning-guided adaptive selection of LoRA adapters for continual learning. The broader goal is to improve model adaptation across evolving tasks while mitigating catastrophic forgetting.
+
+*Status: Submitted to IEEE Transactions on Artificial Intelligence; under review.*
+
+## 📚 Publications
+
+1. **K. Lohani, G. Chaubey, et al.**, “A Study of Fairness and Bias of Deep Learning Models,” *2025 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)*, 2025. [DOI](https://doi.org/10.1109/CVMI66673.2025.11337368)
+
+2. **G. Chaubey, K. P. Singh, and M. Ojha**, “ReinforceTree: PPO-Guided Adaptive LoRA Routing for Continual Learning,” submitted to *IEEE Transactions on Artificial Intelligence* (under review).
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, C, C++, Java, SQL
+
+**Deep Learning & ML Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn
+
+**Scientific Computing & Data Analysis:** NumPy, Pandas, OpenCV
+
+**AI & Research Areas:** Continual Learning, Reinforcement Learning, Representation Learning, Bayesian Modeling, LLMs, Vision Transformers (ViTs), Vision-Language Models (VLMs)
+
+**Tools & Platforms:** Linux, Git, Docker, Kubernetes, Jupyter Notebook, Google Colab, VS Code, LaTeX
+
+**Cloud Platforms:** Google Cloud Platform (GCP), AWS, Microsoft Azure
+
+## 🎓 Education
+
+- **Ph.D. in Information Technology**, Indian Institute of Information Technology Allahabad, India — Jan 2025–Present
+- **M.Sc. in Computational Science and Applications**, Banaras Hindu University — 2022–2024
+- **B.Sc. in Computer Science and Mathematics**, Mahatma Gandhi Kashi Vidyapith — 2019–2022
+
+## 👩‍🏫 Teaching & Academic Service
+
+**Teaching Assistant**
+- Advanced Programming and Practices (APP), IIIT Allahabad
+- Design and Analysis of Algorithms (DAA), IIIT Allahabad
+- Programming and Data Structures with Python, IIT Patna
+- Introduction to Machine Learning, IIIT Allahabad
+- Natural Language Processing, IIT Patna
+
+**Academic Service**
+- Reviewer: NeurIPS 2026 Workshops (WiML and NewInML), IEEE CVMI 2026, AIKP 2026
+- Program Committee Member: ICAIMS 2026
+- Former Vice Chair, ACM Student Chapter, Banaras Hindu University
+
+## 🏆 Awards & Achievements
+
+- **UGC NET Junior Research Fellowship (JRF):** Qualified in Computer Science and Applications, June 2024; 97.44 percentile.
+- **NPTEL Elite Certification in Data Mining:** 90%, among the top 5% of learners.
+- **MeitY–NASSCOM AI–Data Scientist Training Programme:** Six-month programme, NSQF Level 8.
+
+## 📫 Get in Touch
+
+- **Email:** [rsi2025001@iiita.ac.in](mailto:rsi2025001@iiita.ac.in)
+- **Website:** [garimachaubey.github.io/Garima_Chaubey](https://garimachaubey.github.io/Garima_Chaubey/)
+- **Google Scholar:** [View profile](https://scholar.google.com/citations?user=V1QXFP0AAAAJ&hl=en)
+- **LinkedIn:** [garima3107](https://www.linkedin.com/in/garima3107)
+- **ORCID:** [0009-0009-4141-8685](https://orcid.org/0009-0009-4141-8685)
+
+---
+
+<p align="center">
+  <i>Interested in research collaborations and discussions on continual learning, reinforcement learning, foundation models, and adaptive AI agents.</i>
+</p>
+'''
+path = Path("/mnt/data/README.md")
+path.write_text(content, encoding="utf-8")
+print(f"Created: {path} ({path.stat().st_size} bytes)")
